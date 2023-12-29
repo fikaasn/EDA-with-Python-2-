@@ -10,5 +10,7 @@ Padi.csv and Sawit.csv: Dataset files providing detailed information on rice and
 Data Sources:
 
 Rice Production Data : https://opendata.jabarprov.go.id/id/dataset/produksi-padi-berdasarkan-kabupatenkota-di-jawa-barat
+
 Palm Oil Production Data : https://opendata.jabarprov.go.id/id/dataset/produksi-tanaman-kelapa-sawit-berdasarkan-kabupatenkota-di-jawa-barat
+
 Feel free to explore the project, analyze the visualizations, and gain insights into the production trends of rice and palm oil in the West Java region.
